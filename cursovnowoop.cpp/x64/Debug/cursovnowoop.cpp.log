@@ -1,0 +1,16 @@
+﻿  Admin.cpp
+  Header.cpp
+  Console.cpp
+  List.cpp
+  Core.cpp
+D:\Git\Course-project\cursovnowoop.cpp\Core.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Student.cpp
+  students_lagging_subgroup_1.cpp
+  students_lagging_subgroup_2.cpp
+  students_successful_subgroup_1.cpp
+  students_successful_subgroup_2.cpp
+  subgroup_first.cpp
+  subgroup_second .cpp
+  Validation.cpp
+  Создание кода...
+  cursovnowoop.cpp.vcxproj -> D:\Git\Course-project\x64\Debug\cursovnowoop.cpp.exe

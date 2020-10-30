@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="User">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAIAAAAAAABAAAAACAAAAAAAAAAAAAACgAAEAA=</HashCode>
+      <FileName>Admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAQIABYBEUAAAgCCAAACAIACMAAAAEgCAA=</HashCode>
+      <FileName>Console.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List&lt;T&gt;">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACBGAAAAAIAAhAAgBBCQAAEAEAgABBAIAAAgQAo=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAQAAAAAAAhgIBAAAQAAAAAAAACAAgECwAaBA=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="students_lagging_subgroup_1">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAEAAAAAAAAAAAAAAAIAAAAQAAAAAAAACAAgAAACAQA=</HashCode>
+      <FileName>students_lagging_subgroup_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="students_lagging_subgroup_2">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAEAAAAAAAAAAAAAAAIAAAAQAAAAAAAACAAgAAAEAQA=</HashCode>
+      <FileName>students_lagging_subgroup_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="students_successful_subgroup_1">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAEAAAAAAAAAAAYAAAAQgAAAAACACAAgAAAAAAA=</HashCode>
+      <FileName>students_successful_subgroup_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="students_successful_subgroup_2">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAAAAAAAAAAAAAYAAAAQgAAAAACACAAgAAAAAAA=</HashCode>
+      <FileName>students_successful_subgroup_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="subgroup_first">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABAAAAEAAAIAARAQAAAAAAAACAEgQAAAAAA=</HashCode>
+      <FileName>subgroup_first.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="subgroup_second">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABAAAAAAAAIAAQAQAAAACAAACAAgQEAAAAA=</HashCode>
+      <FileName>subgroup_second.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Line&lt;T&gt;">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAIACAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ConsoleColor">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAnAAQAAQAAIgAAABAAAAAABAAAAAQAAAAACDAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

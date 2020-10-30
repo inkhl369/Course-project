@@ -1,0 +1,3 @@
+﻿  Core.cpp
+d:\курсач\cursovnowoop.cpp\cursovnowoop.cpp\core.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  cursovnowoop.cpp.vcxproj -> D:\курсач\cursovnowoop.cpp\Debug\cursovnowoop.cpp.exe
